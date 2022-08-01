@@ -27,7 +27,7 @@ header {
 }
 
 header > h1 {
-    font-family: 'Passion One';
+    font-family: 'Passion One' Arial, sans-serif;
     font-size: 180px;
     font-weight: bold;
 }
@@ -41,13 +41,14 @@ main {
 }
 
 .conteudo > p {
-    font-family: 'Sriracha';
+    font-family: 'Sriracha', Arial, sans-serif;
     font-size: 70px;
     max-width: 700px;
     padding: 90px 30px;
 }
 
 footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: black;
     text-align: center;
